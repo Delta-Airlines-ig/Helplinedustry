@@ -8,7 +8,7 @@ inaccuracy: 9
 placeSound: meg
 placeEffect: spawnShockwave
 destroySound: ddddd
-reload: 0.5
+reload: 0.8
 shots: 3
 recoilAmount: 100
 shootCone: 50

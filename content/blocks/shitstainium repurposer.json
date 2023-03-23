@@ -22,8 +22,4 @@ requirements: [
 
 ]
 category: crafting
-outputItems: [
-coal/500
-copper/500
-
-]
+outputItem: coal/250
