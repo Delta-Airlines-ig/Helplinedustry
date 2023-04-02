@@ -13,13 +13,13 @@ shots: 3
 recoilAmount: 100
 shootCone: 50
 rotateSpeed: 100
-range: 450
+range: 350
 targetAir: true
 ammoTypes: {
 	helplium: {
 		type:BasicBulletType
 		speed: 25
-		damage: 5
+		damage: 9
 		shootEffect: shootSmall
 		collideTerrain:false
 		splashDamage:300

@@ -1,0 +1,23 @@
+type: genericCrafter
+name: pudditizer
+craftTime: 360
+size: 5
+hasPower: true
+hasLiquids: true
+itemCapacity: 7000
+consumes: {
+  items: {
+    items: [
+      puddite/6969
+    ]
+  }
+  power: 69
+}
+craftEffect: smokeCloud
+requirements: [
+  puddite/69
+  helplium/100
+
+]
+category: crafting
+outputItem: GIGA puddite/1

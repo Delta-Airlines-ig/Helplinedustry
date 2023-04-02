@@ -1,0 +1,41 @@
+type:mech
+name:helplungi pudding
+health: 413
+armor:0
+speed: 1.5
+drag: 0.1
+accel: 2
+rotateSpeed: 100
+engineSize:10
+targetGround:true
+targetAir:true
+drawCell:false
+circleTarget:true
+outlines:false
+legLength:0
+size:3
+hitsize:60
+weapons: [
+  {
+	  name: amongusq
+    x: -1
+    y: 0
+	size: 2
+    recoil: 30
+    reload: 30
+    shake: 0
+	shotDelay: 0
+    bullet: {
+      type: LiquidBulletType
+	  liquid: water
+      damage: 18
+	  speed: 5
+	  lifetime: 100
+	  inaccuracy:3
+	  orbsize: 200
+	  collideTerrain:true
+	   width: 20
+	height: 20
+    }
+  }
+  ]

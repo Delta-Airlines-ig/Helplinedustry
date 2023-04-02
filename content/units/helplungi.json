@@ -1,0 +1,39 @@
+type:mech
+name:helplungi
+health: 100
+armor:0
+speed: 4
+drag: 0.5
+accel: 2
+rotateSpeed: 100
+engineSize:10
+targetGround:true
+targetAir:true
+drawCell:false
+circleTarget:true
+outlines:false
+legLength:100
+size:1
+hitsize:20
+weapons: [
+  {
+	  name: amongus
+    x: -1
+    y: 0
+    recoil: 80
+	size: 1
+    reload: 10
+    shake: 0
+	shotDelay: 10
+    bullet: {
+      type: basicBulletType
+      damage: 3
+	  speed: 4
+	  lifetime: 55
+	  inaccuracy:3
+	  collideTerrain:true
+	   width: 7
+	height: 7
+    }
+  }
+  ]
