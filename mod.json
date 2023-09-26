@@ -1,7 +1,7 @@
-name: "helplinedustry"
-displayName: "helplinedustry"
+name: "helplinedustry-classic"
+displayName: "helplinedustry classic"
 author: helpl
-description: "the game is now slightly easier but more complicated"
+description: "the game is now slightly easier but more complicated. clasic version, before remake"
 version: "1.0"
 minGameVersion: "136"
 dependencies: []
